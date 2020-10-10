@@ -9,7 +9,7 @@ In this project, we will develop and evaluate the performance and the predictive
 
 - Cloning the Repository: 
 
-        git clone https://github.com/srijarkoroy/Boston-Housing-Price.git
+        git clone https://github.com/indiradutta/Boston-Housing-Price.git
 - Entering The directory: 
 
         cd Boston-Housing-Price
