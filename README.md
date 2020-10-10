@@ -1,5 +1,7 @@
 # Boston Housing Price
 
+This project applies basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home.
+
 # Dataset
 The dataset used in this project comes from the UCI Machine Learning Repository. This data was collected in 1978 and each of the 506 entries represents aggregate information about 14 features of homes from various suburbs located in Boston.
 The features can be summarized as follows:
@@ -18,7 +20,12 @@ The features can be summarized as follows:
 - LSTAT: This is the percentage lower status of the population
 - MEDV: This is the median value of owner-occupied homes in $1000s
 
-# Algorithms 
+# Algorithms and their Result
 
 - Linear Regression
+
+<img src = "https://raw.githubusercontent.com/indiradutta/Boston-Housing-Price/main/Media/LinearRegression.PNG">
+            
 - Decision Tree
+
+<img src = "https://raw.githubusercontent.com/indiradutta/Boston-Housing-Price/main/Media/LinearRegression.PNG">
