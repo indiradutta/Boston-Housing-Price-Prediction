@@ -19,3 +19,8 @@ In this project, we will develop and evaluate the performance and the predictive
 - Stopping the web app from the terminal:
 
         Ctrl+C
+
+# Demonstration
+<br>
+
+![](AppDemo.gif)
